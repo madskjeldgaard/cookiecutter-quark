@@ -6,6 +6,18 @@
 
 The point of this is to be able to very easily generate a new quark from the command line like so: `cookiecutter path/to/this/cookiecutter-template`. Cookiecutter will then ask you some questions and from your answers generate a quark file, a class and a help file containing that information.
 
+This template will create a file/folder structure like so. The contents of the files are the bare minimum dependent on your answers to cookiecutter's questions:
+
+```
+QuarkName.quark
+- classes
+    QuarkName.sc
+- HelpSource
+    - Classes
+	QuarkName.schelp
+README.md
+```
+
 [read the Cookiecutter docs](https://cookiecutter.readthedocs.io/en/latest/)
 
 # Installation
