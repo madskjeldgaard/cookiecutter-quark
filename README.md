@@ -35,4 +35,4 @@ Given that the path to your cookiecutter-quark folder is still `~/cookiecutter-q
 3. Save the file (press wq)
 4. Reload your .bashrc file: `source ~/.bashrc`
 
-Now, you can type `quark` in your terminal, hit enter and start the cookiecutter program.
+Now, you can type `quark` in your terminal, hit enter and start the cookiecutter program to create your badass new quark.
