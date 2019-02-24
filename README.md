@@ -2,6 +2,8 @@
 
 ### a simple cookiecutter template that will help you automatically crate a basic SuperCollider package (quark).
 
+![cookiecutter.gif](cookiecutter.gif "cookiecutter in action")
+
 The point of this is to be able to very easily generate a new quark from the command line like so: `cookiecutter path/to/this/cookiecutter-template`. Cookiecutter will then ask you some questions and from your answers generate a quark file, a class and a help file containing that information.
 
 [read the Cookiecutter docs](https://cookiecutter.readthedocs.io/en/latest/)
