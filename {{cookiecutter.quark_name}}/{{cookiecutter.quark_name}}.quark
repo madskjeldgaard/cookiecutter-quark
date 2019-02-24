@@ -6,6 +6,6 @@
   dependencies: {{cookiecutter.quark_dependencies}},
   license: "{{cookiecutter.license}}",
   copyright: "{{cookiecutter.copyright}}",
-  ext_dependancy: "{{cookiecutter.external_dependencies}}",
+  ext_dependency: "{{cookiecutter.external_dependencies}}",
   url: "{{cookiecutter.github_repo_url}}"
 )
