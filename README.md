@@ -9,13 +9,15 @@ The point of this is to be able to very easily generate a new quark from the com
 This template will create a file/folder structure like so. The contents of the files are the bare minimum dependent on your answers to cookiecutter's questions:
 
 ```
+README.md
 QuarkName.quark
-- classes
+- Classes
     QuarkName.sc
+    - Tests
+	QuarkNameTest.sc
 - HelpSource
     - Classes
 	QuarkName.schelp
-README.md
 ```
 
 [read the Cookiecutter docs](https://cookiecutter.readthedocs.io/en/latest/)
