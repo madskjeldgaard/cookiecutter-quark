@@ -1,10 +1,10 @@
 {{cookiecutter.quark_name}} {
 	// this is a normal constructor method
-	*new { | arga, argb, argc  |
-		^super.new.init(arga, argb, argc)
+ *new { | arga, argb|
+		^super.new.init( arga, argb );
 	}
 
-	init { | arga, argb, argc  |
-		// do initiation here
+	init { | arga, argb |
+		// Init here
 	}
 }

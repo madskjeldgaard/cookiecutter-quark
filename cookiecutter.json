@@ -1,6 +1,6 @@
 {
 	"full_name": "Sven SuperColliderson",
-	"quark_name": "VeryCoolPackage",
+	"quark_name": "PackageName",
 	"quark_summary": "A short summary of the package's functionality/purpose",
 	"description": "A slightly longer description of this package",
 	"github_username": "{{cookiecutter.github_username}}",
