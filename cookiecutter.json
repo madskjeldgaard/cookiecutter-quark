@@ -3,7 +3,7 @@
 	"quark_name": "PackageName",
 	"quark_summary": "A short summary of the package's functionality/purpose",
 	"description": "A slightly longer description of this package",
-	"github_username": "{{cookiecutter.github_username}}",
+	"github_username": "svensupercolliderson",
 	"github_repo_url": "https://github.com/{{cookiecutter.github_username}}/{{ cookiecutter.quark_name|lower|replace(' ', '-') }}",
 	"quark_version": "1.0",
 	"quark_helpfile": "{{cookiecutter.quark_name}}.schelp",
