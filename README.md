@@ -1,6 +1,6 @@
 # Cookiecutter template for SuperCollider quarks
 
-### a simple cookiecutter template that will help you automatically crate a basic SuperCollider package (quark).
+### a simple cookiecutter template that will help you automatically create a basic SuperCollider package (quark).
 
 ![cookiecutter.gif](cookiecutter.gif "cookiecutter in action")
 
