@@ -7,7 +7,7 @@
 	"github_repo_url": "https://github.com/{{cookiecutter.github_username}}/{{ cookiecutter.quark_name|lower|replace(' ', '-') }}",
 	"quark_version": "1.0",
 	"quark_helpfile": "{{cookiecutter.quark_name}}.schelp",
-	"quark_dependencies": "['Ctk', 'https://github.com/ambisonictoolkit/atk-sc3.git']",
+	"quark_dependencies": "[\"Ctk\", \"https://github.com/ambisonictoolkit/atk-sc3.git\"]",
 	"license": ["GNU GPL v3.0", "MIT", "Apache Software License 2.0"],
 	"copyright": "{{cookiecutter.github_username}}",
 	"external_dependencies": ""
