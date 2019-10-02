@@ -52,3 +52,8 @@ Given that the path to your cookiecutter-quark folder is still `~/cookiecutter-q
 4. Reload your .bashrc file: `source ~/.bashrc`
 
 Now, you can type `quark` in your terminal, hit enter and start the cookiecutter program to create your badass new quark.
+
+# cookiecutter.exceptions.ConfigDoesNotExistException
+If you get this error, it means that cookiecutter cannot find your config file (because you probably haven't made one). A config file is a way to store systems defaults for cookiecutter's variables. 
+
+This can be fixed either by making a config file or, more simply, by adding the `--default-config` flag at the end of the cookiecutter command.
