@@ -3,7 +3,7 @@
   summary: "{{cookiecutter.quark_summary}}",
   version: "{{cookiecutter.quark_version}}",
   schelp: "{{cookiecutter.quark_helpfile}}",
-  dependencies: {{cookiecutter.quark_dependencies}},
+  dependencies: ,
   license: "{{cookiecutter.license}}",
   copyright: "{{cookiecutter.copyright}}",
   ext_dependency: "",
