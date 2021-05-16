@@ -8,6 +8,5 @@
 	"quark_version": "0.001",
 	"quark_helpfile": "{{cookiecutter.quark_name}}.schelp",
 	"license": ["GNU GPL v3.0", "MIT", "Apache Software License 2.0"],
-	"copyright": "{{cookiecutter.github_username}}",
-	"external_dependencies": ""
+	"copyright": "{{cookiecutter.github_username}}"
 }
