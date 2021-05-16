@@ -1,7 +1,7 @@
 TITLE:: {{cookiecutter.quark_name}}
 summary:: {{cookiecutter.quark_summary}}
-categories:: Undocumented classes
-related:: Classes/SomeRelatedClass, Reference/SomeRelatedStuff, etc.
+categories:: Extensions
+related:: Classes/Quarks
 
 DESCRIPTION::
 {{cookiecutter.description}}
@@ -17,11 +17,7 @@ ARGUMENT:: arga
 ARGUMENT:: argb
 (describe argument here)
 
-ARGUMENT:: argc
-(describe argument here)
-
 returns:: (describe returnvalue here)
-
 
 INSTANCEMETHODS::
 
@@ -34,13 +30,10 @@ ARGUMENT:: arga
 ARGUMENT:: argb
 (describe argument here)
 
-ARGUMENT:: argc
-(describe argument here)
-
 returns:: (describe returnvalue here)
 
 EXAMPLES::
 
 code::
-(some example code)
+// some example code
 ::

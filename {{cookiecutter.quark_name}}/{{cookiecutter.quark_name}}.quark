@@ -3,9 +3,9 @@
   summary: "{{cookiecutter.quark_summary}}",
   version: "{{cookiecutter.quark_version}}",
   schelp: "{{cookiecutter.quark_helpfile}}",
-  dependencies: ,
+  dependencies: nil,
   license: "{{cookiecutter.license}}",
   copyright: "{{cookiecutter.copyright}}",
-  ext_dependency: "",
+  ext_dependency: nil,
   url: "{{cookiecutter.github_repo_url}}"
 )
