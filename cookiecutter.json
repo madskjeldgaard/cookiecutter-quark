@@ -3,10 +3,11 @@
 	"quark_name": "PackageName",
 	"quark_summary": "A short summary of the package's functionality/purpose",
 	"description": "A slightly longer description of this package",
-	"github_username": "svensupercolliderson",
-	"github_repo_url": "https://github.com/{{cookiecutter.github_username}}/{{ cookiecutter.quark_name|lower|replace(' ', '-') }}",
+	"repo_username": "svensupercolliderson",
+  "repo_base_url": "https://github.com",
+	"repo_url": "{{cookiecutter.repo_base_url}}/{{cookiecutter.repo_username}}/{{ cookiecutter.quark_name|lower|replace(' ', '-') }}",
 	"quark_version": "0.001",
 	"quark_helpfile": "{{cookiecutter.quark_name}}.schelp",
 	"license": ["GNU GPL v3.0", "MIT", "Apache Software License 2.0"],
-	"copyright": "{{cookiecutter.github_username}}"
+	"copyright": "{{cookiecutter.repo_username}}"
 }
