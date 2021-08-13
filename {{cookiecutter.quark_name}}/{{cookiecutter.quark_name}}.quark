@@ -7,5 +7,5 @@
   license: "{{cookiecutter.license}}",
   copyright: "{{cookiecutter.copyright}}",
   ext_dependency: nil,
-  url: "{{cookiecutter.github_repo_url}}"
+  url: "{{cookiecutter.repo_url}}"
 )
