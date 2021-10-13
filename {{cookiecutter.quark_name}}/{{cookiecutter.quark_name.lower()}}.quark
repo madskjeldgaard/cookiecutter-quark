@@ -1,5 +1,5 @@
 (
-  name: "{{cookiecutter.quark_name}}",
+  name: "{{cookiecutter.quark_name.lower()}}",
   summary: "{{cookiecutter.quark_summary}}",
   version: "{{cookiecutter.quark_version}}",
   schelp: "{{cookiecutter.quark_helpfile}}",
