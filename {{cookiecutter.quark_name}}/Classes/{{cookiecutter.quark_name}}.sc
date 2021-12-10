@@ -1,8 +1,8 @@
 {{cookiecutter.quark_name}} {
- *new { |arga, argb|
-		^super.new.init( arga, argb );
+	*new { | arga, argb |
+		^super.new.init(arga, argb);
 	}
 
-	init { |arga, argb|
+	init { | arga, argb |
 	}
 }
